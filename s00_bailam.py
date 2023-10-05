@@ -11,5 +11,5 @@ Hi!
 """
 
 def hi():
-  # print('Hi !')
-  return 'Hi !'
+  # print('Hi ')
+  return 'Hi '
